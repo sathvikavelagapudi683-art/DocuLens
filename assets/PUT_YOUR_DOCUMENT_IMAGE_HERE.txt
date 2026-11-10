@@ -1,0 +1,1 @@
+Place a document photo in this folder, or pass any image path to run.py.
